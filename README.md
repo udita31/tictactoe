@@ -1,2 +1,1 @@
-# tictactoe
-tictactoe game mobile application
+# TikTacToe
